@@ -1,0 +1,25 @@
+ body {
+    background-color: #b63661;
+    color: #ebe8e8;
+    margin: 0%;
+ }
+ #header {
+    text-align: center;
+ }
+ #hesder >div:first-child {
+    background-color: #00357a;
+    color: rgb(140, 221, 8);
+    padding: 30px;
+ }
+ .content {
+    width: 80%;
+    max-width: 800px;
+    margin: 30px auto;
+    background-color: rgb(92, 110, 12);
+    pandding: 30px;
+ }
+ .content h2{
+    color: rgb(255, 127, 127);
+    border-bottom: 2px solid;
+    padding-bottom: 5px;
+ }
